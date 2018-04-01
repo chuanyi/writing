@@ -4,7 +4,7 @@
 
 多年来大部分公司的产品策略依然是制定战略、规划里程碑、用甘特图跟踪项目，流程如下图：
 
-![SRPE](/images/SRPE.png)
+![SRPE](./images/SRPE.png)
 
 每年或隔几年就做一次战略，然后在全年对产品进行里程碑拆分，最后制定详细的项目计划进行瀑布或敏捷开发，在运转过程中发现该模式存在几个问题，看你是否也感同身受：
 
@@ -22,7 +22,7 @@
 
 基于此，在Google工作过的Itamar Gilad产品经理提出了GIST计划方法，充分体现了Google OKR的管理思想。GIST是Goals,Ideas,Step-projects和Tasks的缩写，是产品推进的四个层面，每个层面都有独立的规划视角和变更频率，并可用不同的工具来跟踪，组合在一起基本能解决公司或团队的产品关键计划需要，如下图所示：
 
-![GIST](/images/gist.png)
+![GIST](./images/gist.png)
 
 ### 3 GIST 方法详述
 
