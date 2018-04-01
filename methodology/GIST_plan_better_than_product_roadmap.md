@@ -22,7 +22,7 @@
 
 基于此，在Google工作过的Itamar Gilad产品经理提出了GIST计划方法，充分体现了Google OKR的管理思想。GIST是Goals,Ideas,Step-projects和Tasks的缩写，是产品推进的四个层面，每个层面都有独立的规划视角和变更频率，并可用不同的工具来跟踪，组合在一起基本能解决公司或团队的产品关键计划需要，如下图所示：
 
-![GIST](./images/gist.png)
+![GIST](./images/GIST.png)
 
 ### 3 GIST 方法详述
 
