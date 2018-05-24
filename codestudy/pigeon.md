@@ -2,7 +2,7 @@
 
 ## 1 What's Pigeon
 
-We shoud know PEG first, from Wikipedia [0] :
+We shoud know PEG first, from [Wikipedia](http://en.wikipedia.org/wiki/Parsing_expression_grammar) :
 
 > A parsing expression grammar is a type of analytic formal grammar, i.e.
 > it describes a formal language in terms of a set of rules for recognizing
@@ -10,7 +10,7 @@ We shoud know PEG first, from Wikipedia [0] :
 
 Traditional context-free grammars (CFGs) were often seen in the field of programming languages, but parsing expression grammars (PEGs) are an interesting alternative. 
 
-Pigeon's grammar format see [1].
+See [Pigeon's grammar format](https://godoc.org/github.com/mna/pigeon).
 
 The advantages using PEGs:
 
@@ -18,7 +18,7 @@ The advantages using PEGs:
 + PEGs offer unlimited lookahead
 + No lexer is required, the grammar is "self-contained" 
 
-Ok, Pigeon [2] is a PEG-based parser generator for Go, writen by Martin Angers. There are also other language implements like pegjs.
+Ok, [Pigeon](https://github.com/mna/pigeon) is a PEG-based parser generator for Go, writen by Martin Angers. There are also other language implements like pegjs.
 
 ## 2 Pigeon example
 
@@ -84,9 +84,3 @@ Parsing expression grammar parser generator is a good common-use DSL solution:
 + Design a high level complex business DSL format, not limited in programming language format
 + Quickly implement your DSL parser and evaluator, you just write a peg rule file and handle code
 + Define a DSL AST and implement a custom builder, you can quickly implement your own generator
-
-## 5 Reference
-
-[0]: http://en.wikipedia.org/wiki/Parsing_expression_grammar
-[1]: https://godoc.org/github.com/mna/pigeon
-[2]: https://github.com/mna/pigeon
